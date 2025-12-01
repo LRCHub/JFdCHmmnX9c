@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "プレゼント",
+  "base_artist": "Marcy",
+  "createdAt": "2025-12-01T03:37:58.945481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Present",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_Present_RIP_SLYME.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Present",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_02_Present_RIP_SLYME.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Present",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_03_Present_RIP_SLYME.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "プレゼントの降る街",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_04_プレゼントの降る街_RIP_SLYME.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "PRESENT",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_05_PRESENT_RIP_SLYME.txt"
+    }
+  ]
+}
